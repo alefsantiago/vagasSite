@@ -4,3 +4,15 @@
     box-sizing: border-box;
 }
 
+.bg-color{
+    background-color: #F0E68C	; 
+    color: white; 
+}
+
+.bg-color .nav-link {
+    color: white; 
+}
+
+.bg-color .nav-link:hover {
+    color: #000000	; 
+}
