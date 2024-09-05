@@ -4,15 +4,23 @@
     box-sizing: border-box;
 }
 
+body * {
+    font-family: 'inter', sans-serif;
+}
+
 .bg-color{
-    background-color: #F0E68C	; 
-    color: white; 
+    background-color: #327da8; 
 }
 
 .bg-color .nav-link {
-    color: white; 
+    color: white;
+    font-weight: 500; 
 }
 
 .bg-color .nav-link:hover {
     color: #000000	; 
+}
+
+#title {
+    text-align: center;
 }
