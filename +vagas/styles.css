@@ -8,6 +8,10 @@ body * {
     font-family: 'inter', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .bg-color{
     background-color: #327da8; 
 }
